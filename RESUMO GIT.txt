@@ -1,0 +1,12 @@
+git - software de versionamento de codigo 
+cmd comandos
+echo hello > hello.txt - criar um arquivo de texto
+md - cria uma pasta
+dir - lista pastas dentro do diretorio atual
+cls - limpa o terminal
+del - deleta arquivos dentro de uma pasta
+rmdir /s /q - deleta pasta com todos arquivos dentro
+cd - navega entre pastas
+cd .. - volta um diretorio
+cd / - volta todos diretorios
+mkdir  - cria pasta
